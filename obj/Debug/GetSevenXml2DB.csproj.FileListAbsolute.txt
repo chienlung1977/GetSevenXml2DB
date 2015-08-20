@@ -1,0 +1,9 @@
+D:\chienlung\711排程程式\GetSevenXml2DB\obj\Debug\GetSevenXml2DB.csprojResolveAssemblyReference.cache
+D:\chienlung\711排程程式\GetSevenXml2DB\bin\Debug\GetSevenXml2DB.exe.config
+D:\chienlung\711排程程式\GetSevenXml2DB\bin\Debug\GetSevenXml2DB.exe
+D:\chienlung\711排程程式\GetSevenXml2DB\bin\Debug\GetSevenXml2DB.pdb
+D:\chienlung\711排程程式\GetSevenXml2DB\bin\Debug\LCL.Core.dll
+D:\chienlung\711排程程式\GetSevenXml2DB\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\chienlung\711排程程式\GetSevenXml2DB\bin\Debug\LCL.Core.pdb
+D:\chienlung\711排程程式\GetSevenXml2DB\obj\Debug\GetSevenXml2DB.exe
+D:\chienlung\711排程程式\GetSevenXml2DB\obj\Debug\GetSevenXml2DB.pdb

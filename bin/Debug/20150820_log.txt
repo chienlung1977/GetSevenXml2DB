@@ -1,0 +1,4 @@
+ERROR 	2015-08-20 21:49:16 	StartIndex 不可以小於零。
+參數名稱: startIndex
+ERROR 	2015-08-20 21:49:17 	StartIndex 不可以小於零。
+參數名稱: startIndex
