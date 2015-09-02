@@ -1,0 +1,8 @@
+*.exe
+bin/Debug/GetSevenXml2DB.pdb
+*.dll
+bin/Debug/LCL.Core.pdb
+*.pdb
+bin/Debug/GetSevenXml2DB.vshost.exe.config
+*.cache
+*.txt
